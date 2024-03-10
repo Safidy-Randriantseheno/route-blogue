@@ -1,0 +1,13 @@
+export const blogData = [
+    {
+      id: 1,
+      title: "Titre du Blog 1",
+      content: "Contenu du Blog 1..."
+    },
+    {
+      id: 2,
+      title: "Titre du Blog 2",
+      content: "Contenu du Blog 2..."
+    }
+  ];
+  
